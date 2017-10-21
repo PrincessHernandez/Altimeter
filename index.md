@@ -21,7 +21,7 @@ Created [proposal](https://github.com/six0four/StudentSenseHat/blob/master/docum
 
 ### September 6, 2017
 
-Created [repository](https://princess97.github.io/Altimeter/). Also generated a quiz.
+Created [repository](https://github.com/princess97/Altimeter). Also generated a quiz.
 
 ### August 30, 2017
 
