@@ -8,6 +8,8 @@ title: simple site
 Princess' Altimeter
 -------------------
 
+### Week 7 - December 4, 2017
+
 ### Week 6 - November 27, 2017
 
 •	 Start video of Altimeter Parts.
