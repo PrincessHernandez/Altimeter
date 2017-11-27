@@ -10,10 +10,9 @@ Princess' Altimeter
 
  
 
-### September 20, 2017
+### Week 03 - October 2, 2017
 
-Created [project schedule](https://github.com/six0four/StudentSenseHat/blob/master/documentation/Week3RubricforProjectSchedule.xml).  
-![Image of Schedule](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/documentation/Week3RubricforProjectSchedule.jpg)
+
 
 ### Week 02 - September 25, 2017
 
