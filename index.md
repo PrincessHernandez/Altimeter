@@ -14,7 +14,7 @@ Princess' Altimeter
 
 •	Parts [budget](https://github.com/princess97/Altimeter/blob/master/documentation/Budget.xlsx) submission.
 
-![Image of Budget](https://github.com/princess97/Altimeter/blob/master/documentation/Budget.PNG)
+![Image of Budget](https://github.com/princess97/Altimeter/blob/master/documentation/Budget.PNG?raw=true)
 
 ### Week 02 - September 25, 2017
 
