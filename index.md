@@ -20,9 +20,9 @@ Princess' Altimeter
 
 •	[Project schedule](https://github.com/princess97/Altimeter/blob/master/documentation/ProjectSchedule.mpp) submission.
 
-<img src="https://github.com/princess97/Altimeter/blob/master/documentation/ProjectSchedule.PNG" alt="Image of Schedule" width="750" height="550" >
+<img src="https://github.com/princess97/Altimeter/blob/master/documentation/ProjectSchedule.PNG?raw=true" alt="Image of Schedule" width="750" height="550" >
 
-![Image of Schedule](https://github.com/princess97/Altimeter/blob/master/documentation/ProjectSchedule.PNG)
+![Image of Schedule](https://github.com/princess97/Altimeter/blob/master/documentation/ProjectSchedule.PNG?raw=true)
 
 •	Started research for Altimeter parts price.
 
