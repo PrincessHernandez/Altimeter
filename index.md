@@ -16,6 +16,8 @@ Princess' Altimeter
 
 •	 Obtain module for SenseHat.
 
+•	 PCB testing.
+
 ### Week STRIKE - October 16, 2017
 
 •	 Obtain Raspberry Pi.
