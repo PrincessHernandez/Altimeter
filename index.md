@@ -20,7 +20,7 @@ Princess' Altimeter
 
 •	 Obtain Raspberry Pi.
 
-•	 Obtain sensor.
+•	 Obtain Altitude sensor.
 
 •	 Start soldering PCB.
 
