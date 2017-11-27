@@ -14,7 +14,7 @@ Princess' Altimeter
 
 •	Parts [budget](https://github.com/princess97/Altimeter/blob/master/documentation/Budget.xlsx) submission.
 
-<img src="https://github.com/princess97/Altimeter/blob/master/documentation/Budget.PNG?raw=true" alt="Image of Budget" width="750" height="350" >
+<img src="https://github.com/princess97/Altimeter/blob/master/documentation/Budget.PNG?raw=true" alt="Image of Budget" width="750" height="200" >
 
 ![Image of Budget](https://github.com/princess97/Altimeter/blob/master/documentation/Budget.PNG?raw=true)
 
