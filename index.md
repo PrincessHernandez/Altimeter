@@ -8,32 +8,46 @@ title: simple site
 Princess' Altimeter
 -------------------
 
- 
+### Week 6 - November 27, 2017
 
-### Week 03 - October 2, 2017
+•	 Start video of Altimeter Parts.
+
+•	 Obtain module for SenseHat.
+
+### Week STRIKE - October 16, 2017
+
+•	 Obtain Raspberry Pi.
+
+•	 Obtain sensor.
+
+•	 Start soldering PCB.
+
+### Week 04 - October 2, 2017
 
 •	Parts [budget](https://github.com/princess97/Altimeter/blob/master/documentation/Budget.xlsx) submission.
 
 ![Image of Budget](https://github.com/princess97/Altimeter/blob/master/documentation/Budget.PNG?raw=true)
 
-### Week 02 - September 25, 2017
+### Week 03 - September 25, 2017
 
 •	[Project schedule](https://github.com/princess97/Altimeter/blob/master/documentation/ProjectSchedule.mpp) submission.
 
 ![Image of Schedule](https://github.com/princess97/Altimeter/blob/master/documentation/ProjectSchedule.PNG?raw=true)
 
-•	Started research for Altimeter parts price.
+•	Start research for Altimeter parts price.
 
-### Week 01 - September 18, 2017
+### Week 02 - September 18, 2017
 
 •	[Proposal](https://github.com/princess97/Altimeter/blob/master/documentation/ProposalContentPrincessRev02.pdf) submission.
 
-•	Created [repository](https://github.com/princess97/Altimeter).
+•	Start project schedule.
 
-•	Started project schedule.
+### Week 01 - September 11, 2017
 
-### Week 00 - September 11, 2017
+•	Create [repository](https://github.com/princess97/Altimeter).
 
-•	Deciding sensor and project.
+•	Start proposal.
 
-•	Started proposal.
+### Week 00 - September 2017
+
+•	Decide sensor and project.
