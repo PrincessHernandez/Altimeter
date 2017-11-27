@@ -18,7 +18,7 @@ Created [project schedule](https://github.com/six0four/StudentSenseHat/blob/mast
 ### Week 02 - September 25, 2017
 
 •	[Project schedule](https://github.com/princess97/Altimeter/blob/master/documentation/ProjectSchedule.mpp) submitted.
-![Image of Schedule](
+![Image of Schedule](https://github.com/princess97/Altimeter/blob/master/documentation/ProjectSchedule.PNG)
 
 ### Week 01 - September 18, 2017
 
