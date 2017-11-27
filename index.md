@@ -20,7 +20,7 @@ Princess' Altimeter
 
 •	[Project schedule](https://github.com/princess97/Altimeter/blob/master/documentation/ProjectSchedule.mpp) submission.
 
-<img src="https://github.com/princess97/Altimeter/blob/master/documentation/ProjectSchedule.PNG" alt="Image of Schedule" width="720" height="500" />
+<img src="https://github.com/princess97/Altimeter/blob/master/documentation/ProjectSchedule.PNG" alt="Image of Schedule" width="750" height="550" />
 
 ![Image of Schedule](https://github.com/princess97/Altimeter/blob/master/documentation/ProjectSchedule.PNG)
 
