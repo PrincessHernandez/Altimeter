@@ -15,14 +15,21 @@ Princess' Altimeter
 Created [project schedule](https://github.com/six0four/StudentSenseHat/blob/master/documentation/Week3RubricforProjectSchedule.xml).  
 ![Image of Schedule](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/documentation/Week3RubricforProjectSchedule.jpg)
 
-### September 13, 2017
+### Week 02 - September 25, 2017
 
-Created [proposal](https://github.com/princess97/Altimeter/blob/master/documentation/ProposalContentPrincessRev02.pdf).
+•	[Project schedule](https://github.com/princess97/Altimeter/blob/master/documentation/ProjectSchedule.mpp) submitted.
+![Image of Schedule](
 
-### September 6, 2017
+### Week 01 - September 18, 2017
 
-Created [repository](https://github.com/princess97/Altimeter). Also generated a quiz.
+•	[Proposal](https://github.com/princess97/Altimeter/blob/master/documentation/ProposalContentPrincessRev02.pdf) submitted.
 
-### August 30, 2017
+•	Created [repository](https://github.com/princess97/Altimeter).
 
-Welcome!
+•	Started project schedule.
+
+### Week 00 - September 11, 2017
+
+•	Deciding sensor and project.
+
+•	Started proposal.
