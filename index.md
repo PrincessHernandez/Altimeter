@@ -16,7 +16,7 @@ Princess' Altimeter
 
 •	 Obtain module for SenseHat.
 
-•	 PCB testing.
+•	 Finish PCB and testing.
 
 ### Week STRIKE - October 16, 2017
 
