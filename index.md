@@ -38,8 +38,6 @@ Princess' Altimeter
 
 <img src="https://github.com/princess97/Altimeter/blob/master/documentation/Budget.PNG?raw=true" alt="Image of Budget" width="100%" height="50%">
 
-![Image of Budget](https://github.com/princess97/Altimeter/blob/master/documentation/Budget.PNG?raw=true)
-
 •	Start ordering parts:
 
   o	Raspberry Pi kit from Amazon: Receipt.
