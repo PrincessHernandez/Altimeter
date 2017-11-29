@@ -40,11 +40,11 @@ Princess' Altimeter
 
 •	Start ordering parts:
 
-    o	Raspberry Pi kit from Amazon: Receipt.
+   o	Raspberry Pi kit from Amazon: Receipt.
   
   ![Image of RaspPi Receipt](https://github.com/princess97/Altimeter/blob/master/documentation/Amazon%20Receipt%20(Rasp%20Pi%203%20Kit).png?raw=true)
   
-    o	Pressure/Altitude sensor from Adafruit: Receipt.
+   o   Pressure/Altitude sensor from Adafruit: Receipt.
   
   ![Image of AltSens Receipt](https://github.com/princess97/Altimeter/blob/master/documentation/Adafruit%20Receipt%20(Pressure:Altitude%20Sensor).png?raw=true)
 
