@@ -32,8 +32,6 @@ Princess' Altimeter
 
 <img src="https://github.com/princess97/Altimeter/blob/master/documentation/PCB1.JPG?raw=true" alt="Image of PCB - incomplete" width="50%" height="50%">
 
-![Image of PCB - incomplete](https://github.com/princess97/Altimeter/blob/master/documentation/PCB1.JPG?raw=true)
-
 ### Week 04 - October 2, 2017
 
 •	Parts [budget](https://github.com/princess97/Altimeter/blob/master/documentation/Budget.xlsx) submission.
