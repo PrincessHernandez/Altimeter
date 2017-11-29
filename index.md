@@ -30,6 +30,8 @@ Princess' Altimeter
 
 •	 Start soldering PCB.
 
+<img src="https://github.com/princess97/Altimeter/blob/master/documentation/PCB1.JPG?raw=true" alt="Image of PCB - incomplete" width="50%" height="50%">
+
 ![Image of PCB - incomplete](https://github.com/princess97/Altimeter/blob/master/documentation/PCB1.JPG?raw=true)
 
 ### Week 04 - October 2, 2017
@@ -42,7 +44,7 @@ Princess' Altimeter
 
   o	Raspberry Pi kit from Amazon: Receipt.
   
-  ![Image of RaspPi Receipt](https://github.com/princess97/Altimeter/blob/master/documentation/Amazon%20Receipt%20(Rasp%20Pi%203%20Kit).png?raw=true
+  ![Image of RaspPi Receipt](https://github.com/princess97/Altimeter/blob/master/documentation/Amazon%20Receipt%20(Rasp%20Pi%203%20Kit).png?raw=true)
   
   o	Pressure/Altitude sensor from Adafruit: Receipt.
   
