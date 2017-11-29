@@ -38,6 +38,16 @@ Princess' Altimeter
 
 ![Image of Budget](https://github.com/princess97/Altimeter/blob/master/documentation/Budget.PNG?raw=true)
 
+•	Start ordering parts.
+
+  o	Order Raspberry Pi kit from Amazon: Receipt.
+  
+  ![Image of RaspPi Receipt]()
+  
+  o	Order Pressure/Altitude sensor from Adafruit: Receipt.
+  
+  ![Image of AltSens Receipt]()
+
 ### Week 03 - September 25, 2017
 
 •	[Project schedule](https://github.com/princess97/Altimeter/blob/master/documentation/ProjectSchedule.mpp) submission.
