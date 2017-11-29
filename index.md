@@ -22,15 +22,15 @@ Princess' Altimeter
 
 •	 Obtain [Raspberry Pi].
 
-![Image of Budget](
+![Image of Rasp Pi]()
 
 •	 Obtain [Altitude sensor].
 
-![Image of Budget](
+![Image of Sensor]()
 
 •	 Start soldering PCB.
 
-![Image of Budget](
+![Image of PCB - incomplete](https://github.com/princess97/Altimeter/blob/master/documentation/PCB1.JPG?raw=true)
 
 ### Week 04 - October 2, 2017
 
@@ -38,15 +38,15 @@ Princess' Altimeter
 
 ![Image of Budget](https://github.com/princess97/Altimeter/blob/master/documentation/Budget.PNG?raw=true)
 
-•	Start ordering parts.
+•	Start ordering parts:
 
-  o	Order Raspberry Pi kit from Amazon: Receipt.
+  o	Raspberry Pi kit from Amazon: Receipt.
   
-  ![Image of RaspPi Receipt]()
+  ![Image of RaspPi Receipt](https://github.com/princess97/Altimeter/blob/master/documentation/Amazon%20Receipt%20(Rasp%20Pi%203%20Kit).png?raw=true
   
-  o	Order Pressure/Altitude sensor from Adafruit: Receipt.
+  o	Pressure/Altitude sensor from Adafruit: Receipt.
   
-  ![Image of AltSens Receipt]()
+  ![Image of AltSens Receipt](https://github.com/princess97/Altimeter/blob/master/documentation/Adafruit%20Receipt%20(Pressure:Altitude%20Sensor).png?raw=true)
 
 ### Week 03 - September 25, 2017
 
@@ -54,7 +54,7 @@ Princess' Altimeter
 
 ![Image of Schedule](https://github.com/princess97/Altimeter/blob/master/documentation/ProjectSchedule.PNG?raw=true)
 
-•	Start research for Altimeter parts price.
+•	Start research for Altimeter parts pricing.
 
 ### Week 02 - September 18, 2017
 
