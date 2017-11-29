@@ -20,11 +20,17 @@ Princess' Altimeter
 
 ### Week STRIKE - October 16, 2017
 
-•	 Obtain Raspberry Pi.
+•	 Obtain [Raspberry Pi].
 
-•	 Obtain Altitude sensor.
+![Image of Budget](
+
+•	 Obtain [Altitude sensor].
+
+![Image of Budget](
 
 •	 Start soldering PCB.
+
+![Image of Budget](
 
 ### Week 04 - October 2, 2017
 
