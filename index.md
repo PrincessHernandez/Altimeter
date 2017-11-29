@@ -30,7 +30,7 @@ Princess' Altimeter
 
 •	 Start soldering PCB.
 
-<img src="https://github.com/princess97/Altimeter/blob/master/documentation/PCB1.JPG?raw=true" alt="Image of PCB - incomplete" width="50%" height="50%">
+<img src="https://github.com/princess97/Altimeter/blob/master/documentation/PCB1.JPG?raw=true" alt="Image of PCB - incomplete" width="100" height="100">
 
 ### Week 04 - October 2, 2017
 
